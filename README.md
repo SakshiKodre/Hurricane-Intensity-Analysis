@@ -80,3 +80,13 @@ Improve predictive modeling for hurricane intensity
 Incorporate additional meteorological factors
 
 Expand analysis to regional hurricane patterns
+
+## References
+
+[PyMc - Bayesian Linear Regression](https://optimumsportsperformance.com/blog/bayesian-linear-regression-getting-started-with-pymc3/)
+
+[GLM: Linear regression](https://www.pymc.io/projects/docs/en/latest/learn/core_notebooks/GLM_linear.html)
+
+[Dataset ](https://www.kaggle.com/datasets/utkarshx27/noaa-atlantic-hurricane-database)
+
+[NHC Noaa](https://www.nhc.noaa.gov/data/#hurdat)
